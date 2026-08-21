@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile.webp" width="180" alt="오해서 프로필 사진" />
+<img src="https://raw.githubusercontent.com/Ohhaeseo/Ohhaeseo/main/assets/profile.webp" width="180" alt="오해서 프로필 사진" />
 
 # 오해서 · OH HAESEO
 
